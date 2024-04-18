@@ -1,24 +1,24 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Before S", "Before S\Before S.csproj", "{019EA930-801A-48B2-BFEA-19FCC11019FA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandlingMessage Before S", "HandlingMessage Before S\HandlingMessage Before S.csproj", "{019EA930-801A-48B2-BFEA-19FCC11019FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "After S", "After S\After S.csproj", "{0648D6FC-6576-4CFD-BA14-C519BDA3326E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandlingMessage After S", "HandlingMessage After S\HandlingMessage After S.csproj", "{0648D6FC-6576-4CFD-BA14-C519BDA3326E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Before O", "Before O\Before O.csproj", "{A4476E04-7259-45BB-A518-BCA94E171FC0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandlingMessage Before O", "HandlingMessage Before O\HandlingMessage Before O.csproj", "{A4476E04-7259-45BB-A518-BCA94E171FC0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "After O", "After O\After O.csproj", "{1A27E83E-186B-4381-A566-5968E80E9F98}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandlingMessage After O", "HandlingMessage After O\HandlingMessage After O.csproj", "{1A27E83E-186B-4381-A566-5968E80E9F98}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Before L", "Before L\Before L.csproj", "{849BCCE1-26AC-40FC-8555-22FE51CE7221}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandlingMessage Before L", "HandlingMessage Before L\HandlingMessage Before L.csproj", "{849BCCE1-26AC-40FC-8555-22FE51CE7221}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "After L", "After L\After L.csproj", "{AFDE9FEC-ECCF-405B-BA71-0F36135B5733}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandlingMessage After L", "HandlingMessage After L\HandlingMessage After L.csproj", "{AFDE9FEC-ECCF-405B-BA71-0F36135B5733}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Before I", "Before I\Before I.csproj", "{A8115FD4-E28A-4043-8355-7692F976139D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandlingMessage Before I", "HandlingMessage Before I\HandlingMessage Before I.csproj", "{A8115FD4-E28A-4043-8355-7692F976139D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "After I", "After I\After I.csproj", "{BDF65A94-D827-42FF-ABC2-D765047BE075}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandlingMessage After I", "HandlingMessage After I\HandlingMessage After I.csproj", "{BDF65A94-D827-42FF-ABC2-D765047BE075}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Before D", "Before D\Before D.csproj", "{D665CE56-A2AD-4BA2-945D-78D1F21E7461}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandlingMessage Before D", "HandlingMessage Before D\HandlingMessage Before D.csproj", "{D665CE56-A2AD-4BA2-945D-78D1F21E7461}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "After D", "After D\After D.csproj", "{B4C6AF60-3E36-4371-897F-B7B65AA89F48}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandlingMessage After D", "HandlingMessage After D\HandlingMessage After D.csproj", "{B4C6AF60-3E36-4371-897F-B7B65AA89F48}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
